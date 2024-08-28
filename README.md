@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tekergo2004
-- 👀 I’m interested in C languages.
-- 🌱 I’m currently learning React, PHP, PostgreeSQL.
+- 👀 I’m currently developing Cisco configurations website, and networking documentstions for myself. 
 
 <!---
 Tekergo2004/Tekergo2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
